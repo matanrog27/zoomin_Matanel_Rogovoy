@@ -1,0 +1,23 @@
+.movieDetailes{
+    padding-left: 5%;
+    display: flex;
+    justify-content:center ;
+    flex-direction: column;
+    align-items: start;
+    border: 1px solid rgba(255, 255, 255, 0.219);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    text-align: center;
+    height: 60%;
+    margin: 10px;
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: -1px -1px 0 #000,  
+    1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
+
+}
+
